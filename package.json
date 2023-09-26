@@ -1,0 +1,17 @@
+{
+  "name": "gpt-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-transformers": "^0.0.0",
+    "openai": "^4.0.0"
+  }
+}
